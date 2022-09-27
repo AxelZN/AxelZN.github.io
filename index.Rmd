@@ -1,0 +1,31 @@
+---
+title: "Axel Zagal Norman"
+image: "Axel.jpeg"
+color1: "#00CC66"
+color2: "#0033CC"
+angle: 130
+links:
+  - label: Instagram
+    url: "https://www.instagram.com/hatzelzn/"
+  - label: Facebook
+    url: "https://www.facebook.com/axel.zagal.54"
+  - label: Twitter
+    url: "https://twitter.com/NormanZagal"
+
+output:
+  postcards::onofre
+---
+azagal@lcg.unam.mx
+
+Mexico
+
+Science and art enthusiast
+
+Cat lover
+
+Spanish/English/French
+
+I am currently studying in the Genomic Sciences Undergraduate Program at the 
+Genomic Sciences Center UNAM
+
+Intern at the Computational Genomics Program and the Systems Biology and Synthetic Biology Program at CCG UNAM
