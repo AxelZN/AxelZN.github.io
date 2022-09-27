@@ -1,2 +1,2 @@
 # AxelZagal.github.io
-Personal/Academicwebpage
+Personal/Academic webpage
