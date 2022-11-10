@@ -1,8 +1,8 @@
 ---
 title: "Axel Zagal Norman"
 image: "Axel.jpeg"
-color1: "#00CC66"
-color2: "#0033CC"
+color1: "#cc2b5e"
+color2: "#753a88"
 angle: 130
 links:
   - label: Instagram
